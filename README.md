@@ -7,7 +7,7 @@ Agent-based model (NetLogo) and analysis scripts (Python) for a DBA thesis on th
 | File | Purpose |
 |---|---|
 | `hawk-dove-model.nlogox` | NetLogo 7.0.4 model: analytical computation of interior equilibria (reproduction of Figure 5 in Chen et al.) and imitation-dynamics simulation |
-| `manuscript_version.ipynb` | Analysis of BehaviorSpace outputs (P1 to P5): regime classification, tables and figures used in the manuscript |
+| `analysis.ipynb` | Analysis of BehaviorSpace outputs (P1 to P5): regime classification, tables and figures used in the manuscript |
 | `resultats/` | BehaviorSpace CSV inputs (`P1.csv` … `P5.csv`) and figure outputs (`p1.png` … `p5.png`) |
 
 ## Requirements
